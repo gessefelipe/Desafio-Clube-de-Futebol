@@ -1,6 +1,5 @@
+# Teste Técnico ASP.NET
 <div align="center">
-  # Teste Técnico ASP.NET
-
   Trata-se de uma aplicação web para um clube de futebol para o controle de atletas que permite incluir, alterar, deletar e listar atletas.
 
   ![](https://img.shields.io/badge/autor-Gess%C3%A9%20Felipe-brightgreen)
